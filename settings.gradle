@@ -1,0 +1,4 @@
+pluginManagement { repositories { google() mavenCentral() } }
+dependencyResolution { rulesMode = PREFER_PROJECT }
+rootProject.name = "TaasGame"
+include ':app'
